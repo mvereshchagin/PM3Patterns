@@ -1,0 +1,15 @@
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/bin/Debug/net6.0/PM3PatternMatching
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/bin/Debug/net6.0/PM3PatternMatching.deps.json
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/bin/Debug/net6.0/PM3PatternMatching.runtimeconfig.json
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/bin/Debug/net6.0/PM3PatternMatching.dll
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/bin/Debug/net6.0/PM3PatternMatching.pdb
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.csproj.AssemblyReference.cache
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.AssemblyInfoInputs.cache
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.AssemblyInfo.cs
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.csproj.CoreCompileInputs.cache
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.dll
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/refint/PM3PatternMatching.dll
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.pdb
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/PM3PatternMatching.genruntimeconfig.cache
+/mnt/data/Misha/Projects/csharp/PM3PatternMatching/PM3PatternMatching/obj/Debug/net6.0/ref/PM3PatternMatching.dll
