@@ -222,6 +222,14 @@ void ListPattern()
     {
         
     }
+
+    if (numbers is [var first, .. var middle, var last])
+    {
+        Console.WriteLine($"First element: {first}");
+        foreach (var item in middle)
+            Console.WriteLine(item);
+        Console.WriteLine($"Last element: {last}");
+    }
 }
 
 string GetNumberDescription(int[] numbers) => numbers switch
@@ -232,6 +240,21 @@ string GetNumberDescription(int[] numbers) => numbers switch
     [] => "Пустой список",
     _ => "Ни один паттерн не подошел",
 };
+
+string GetNumberDescription2(int[] numbers) => numbers switch
+{
+    [1, .., 2] => "Любой список, начинающийся на 1 и заканчивающийся нв 2",
+    [1, 2, .. var middle, 3] => $"Любой список начинающийся на 1, потом 2, заканчивающийся на 3, " +
+                                $"а вунутри набор элементов^ {middle}",
+    [1, _, _, var a, 3] => "Любой список из 5 элементов, начинающийся на 1, потом 2 лююых элемента, потом элемент " +
+                           "сохраняем в переменную, и заканчивающийся на 3",
+    [> 3, > 5, _, var a, > 10, < 3 or > 5, .. var middle, < 4 ] => "1q элемент списка >3, второй > 5, " +
+                                                                  "третий - что угодно, 4й > 10, 5й < 3 или > 5?" +
+                                                                  "потом все элементы в перменную middle," +
+                                                                  "последгний элемент < 4",
+    _ => "Все остальное",
+};
 #endregion
+
 
 
